@@ -1,0 +1,11 @@
+price,area,bedrooms,bathrooms,stories,mainroad,guestroom,basement,hotwaterheating,airconditioning,parking,prefarea,furnishingstatus
+13300000,7420,4,2,3,True,True,True,True,True,2,True,furnished
+12250000,8960,4,4,4,True,True,True,True,True,3,True,furnished
+12250000,9960,3,2,2,True,True,True,True,True,2,True,semi-furnished
+12215000,7500,4,2,2,True,True,True,True,True,3,True,furnished
+11410000,7420,4,1,2,True,True,True,True,True,2,True,furnished
+10850000,7500,3,3,1,True,True,True,True,True,2,True,semi-furnished
+10150000,8580,4,3,4,True,True,True,True,True,2,True,semi-furnished
+10150000,16200,5,3,2,True,True,True,True,True,0,True,unfurnished
+9870000,8100,4,1,2,True,True,True,True,True,2,True,furnished
+9800000,5750,3,2,4,True,True,True,True,True,1,True,unfurnished
